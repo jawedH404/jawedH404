@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java FullStack
 - 💞️ I’m looking to collaborate on DSA
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/jawed-alam-b5887b225
 - 😄 Pronouns: JaaVed
 - ⚡ Fun fact: ..
 
